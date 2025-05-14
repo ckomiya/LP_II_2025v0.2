@@ -1,0 +1,30 @@
+
+# Archivos y carpetas de Eclipse
+**/.classpath
+**/.project
+**/.settings/
+
+# Directorio de salida de compilación de Maven
+**/target/
+
+# Archivos de configuración y wrappers de Maven
+**/mvnw
+**/mvnw.cmd
+**/.mvn/
+
+# Archivos del sistema operativo
+**/.DS_Store
+**/Thumbs.db
+
+# Archivos de log comunes
+**/*.log
+
+# Otros archivos potencialmente generados o locales
+**/*.iml
+.idea/
+*.swp
+
+# Ignorar archivos temporales o de respaldo
+*~
+*.bak
+*.tmp
